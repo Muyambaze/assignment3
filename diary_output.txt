@@ -1,0 +1,31 @@
+
+Entry 1 - 12/12/2012:
+Mood: 8/10
+Shopping
+Word Count: 1
+
+Entry 2 - 12/12/2024:
+Mood: 7/10
+Service
+Word Count: 1
+
+Entry 3 - 09/12/2024:
+Mood: 5/10
+Marketing
+Word Count: 1
+
+Entry 4 - 08/04/2024:
+Mood: 7/10
+Servicing
+Word Count: 1
+
+Entry 5 - 09/02/2025:
+Mood: 9/10
+Food
+Word Count: 1
+
+Average Mood: 7.20/10
+====================LONGEST ENTRY====================
+Date: 12/12/2012
+Word Count: 1
+Shopping
